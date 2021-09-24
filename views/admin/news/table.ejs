@@ -1,0 +1,25 @@
+<table id="example2" class="table table-bordered table-hover">
+    <thead>
+    <tr>
+      <th>No</th>
+      <th>Judul</th>
+      <th>Thumbnail</th>
+      <th>Aksi</th>
+    </tr>
+    </thead>
+    <tbody>
+      <% for(let i = 0; i < news.length; i++){ %>
+        <tr>
+          <td><%= i + 1 %></td>
+          <td><%= news[i].title %></td>
+          <td><img src="/uploads/news/<%= news[i].thumbnail %>" width="100"/></td>
+          <td>
+            <form action="/news/delete/<%= news[i]._id %>?_method=DELETE" method="POST" style="display: inline-flex;">
+              <a href="/news/edit/<%= news[i]._id %>" class="btn btn-warning btn-sm mr-2"><i class="fas fa-pencil-alt"></i>Ubah</a>
+              <button type="submit" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i>Hapus</button>
+            </form>
+          </td>
+        </tr>
+        <% } %>
+    </tbody>
+  </table>
