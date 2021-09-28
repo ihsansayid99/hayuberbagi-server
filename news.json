@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "613cd87c86be8dc2e83daacb"
+  },
+  "title": "Laravel Sistem Akademik",
+  "descNews": "<h2>HayuBerbagi bertransformasi sebagai lembaga sosial edukatif.</h2><p>Memiliki semangat untuk membuat masa depan yang lebih kaya dan bahagia melalui management berkualitas tinggi serta program-program unggul</p>",
+  "thumbnail": "111111.PNG",
+  "slug": "laravel-sistem-akademik",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-09-11T17:51:55.061Z"
+  }
+},{
+  "_id": {
+    "$oid": "613cecd25f477b1ad90a6605"
+  },
+  "title": "Server side rendering Styled-Components with NextJS",
+  "descNews": "<h2>HayuBerbagi bertransformasi sebagai lembaga sosial edukatif.</h2><p>Memiliki semangat untuk membuat masa depan yang lebih kaya dan bahagia melalui management berkualitas tinggi serta program-program unggul</p>",
+  "thumbnail": "setting.png",
+  "createdAt": {
+    "$date": "2021-09-11T17:52:18.500Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T17:52:30.545Z"
+  },
+  "slug": "server-side-rendering-styled-components-with-nextjs",
+  "__v": 0
+}]

@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "613ce19d97e8eb37ea6d2a7d"
+  },
+  "role": "admin-hb",
+  "status": "Y",
+  "email": "admhayuberbagi@gmail.com",
+  "password": "$2a$10$Lb4jpTHpOL/E22jJZ6b4HubPuiY1w2okhyZNossS2dj6BVrAOtr9i",
+  "phoneNumber": "081214674169",
+  "name": "Admin HayuBerbagi",
+  "createdAt": {
+    "$date": "2021-12-09T12:13:16.122Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-09T12:13:16.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613f63c319b3eac48bff75aa"
+  },
+  "email": "mobainside006@gmail.com",
+  "name": "Ihsan sayid Muharrom",
+  "status": "Y",
+  "password": "$2a$08$4Tm9StAhBfBX3TyUyBbeq./qzj.dtXt6N6kmDgIF1hlxEvHszVz8y",
+  "role": "user",
+  "phoneNumber": "0895331491612",
+  "createdAt": {
+    "$date": "2021-09-13T14:44:19.413Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-13T14:44:19.413Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613f643e51362dc63df17c01"
+  },
+  "email": "ihsansayid66@gmail.com",
+  "name": "Ihsan Sayid Muharrom",
+  "status": "Y",
+  "password": "$2a$08$vwbBi1asG.z.XjcinB0KIuM0fzEDsXNEPykw4gkEjtRSYdU.nP3/.",
+  "role": "user",
+  "phoneNumber": "0",
+  "createdAt": {
+    "$date": "2021-09-13T14:46:22.664Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-13T14:46:22.664Z"
+  },
+  "__v": 0
+}]
